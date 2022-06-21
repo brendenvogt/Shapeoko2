@@ -8,8 +8,8 @@
 
 ## Doing
 
-- Hold Down Clamps: Model, Cut
 - End Stops: Wiring
+- Hold Down Clamps: Model, Cut
 
 ## Done
 
